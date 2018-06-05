@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.card-preview{
+  background: #ccc;
+  height: 300px;
+  margin: 2rem auto;
+  width: 500px;
+}
